@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Metricool and side projects that you can find in my repositories<br><br>- 🌱 I’m currently learning frontend architectures, advanced vuejs and react patterns, vite, threejs, blockhain and AI models. <br><br>- 📫 How to reach me iruhsan@gmail.com<br><br>- 📄 Know about my experiences https://www.linkedin.com/in/iru-hernandez/</p>
+<p align="left">- 🔭 I’m currently working like contractor with an ambitious embodied AI start-up (in stealth) and side projects that you can find in my repositories<br><br>- 🌱 I’m currently learning frontend architectures, advanced vuejs and react patterns, vite, threejs, blockhain and AI models. <br><br>- 📫 How to reach me iruhsan@gmail.com<br><br>- 📄 Know about my experiences https://www.linkedin.com/in/iru-hernandez/</p>
 
 ###
 
