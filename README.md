@@ -28,17 +28,15 @@
 <br/>  
 
 # 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=iru97&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iru97&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iru97&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>  
+
 ## 🏆 GitHub Trophies
-<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=iru97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>  
+ 
 ### 🔝 Top Contributed Repo
-<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=iru97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
