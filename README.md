@@ -1,10 +1,4 @@
 
-
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/C5616AQES7yIu-SG0Wg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1579534383397?e=1744243200&v=beta&t=bYaNMjK1gGZNDw5HRyEq5DxuODpxyeruOzJbBGWHH44" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi👋 I'm Iru, a software developer mainly focus on FrontEnd and AI 🎨</div>  
   
 
@@ -29,9 +23,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=iru97&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iru97&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iru97&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iru97&icon=0&color=0)](https://visitcount.itsvg.in)
